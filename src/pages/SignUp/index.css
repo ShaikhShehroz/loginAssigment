@@ -1,0 +1,17 @@
+button {
+    width: 50%;
+}
+
+small {
+    color: red;
+}
+
+.form-group {
+    min-width: 450px;
+}
+
+.title {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+}
